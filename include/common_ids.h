@@ -1,0 +1,15 @@
+#ifndef COMMON_IDS_H_
+#define COMMON_IDS_H_
+
+#define SERVICE_ID 0x0123
+#define SERVICE_INSTANCE_ID 0x5678
+#define METHOD_ID 0x0421
+
+#define DEMO_EVENT_ID         0x0996
+#define DEMO_GET_METHOD_ID    0x0001
+#define DEMO_SET_METHOD_ID    0x0002
+
+#define DEMO_EVENTGROUP_ID    0x6666
+
+
+#endif // COMMON_IDS_H_
